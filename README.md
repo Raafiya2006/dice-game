@@ -7,7 +7,7 @@ Dice Game A simple two-player dice game built with HTML, CSS, and JavaScript. Pl
 - Clean and responsive design for all devices.  
 
 ## Live Demo  
-🎮 **[Play the Game Here!](https://yourusername.github.io/repository-name)**  
+🎮 **[Play the Game Here!](https://raafiya2006.github.io/dice-game/)**  
 
 ## How to Run Locally  
 1. Clone the repository:  
